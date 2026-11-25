@@ -1,6 +1,6 @@
 # Awesome-Dotfiles-Management-Developer-Config
 
-# Top Dotfiles Management & Developer Config Ecosystem
+## Top Dotfiles Management & Developer Config Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Declarative Configuration, Cross-Machine Sync & Self-Hosted Environment Bootstrapping*  
