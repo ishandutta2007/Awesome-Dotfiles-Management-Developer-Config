@@ -69,11 +69,11 @@ The following hosted cloud platforms natively integrate developer dotfiles, auto
 
 ## 📦 Open-Source GitHub Projects
 
-The dotfile management ecosystem is deeply rooted in open source. Below are the most trusted, battle-tested tools for local and cross-platform workstation configuration, sorted descending by GitHub star counts.
+The dotfile management ecosystem is deeply rooted in open source. Below are the most trusted, battle-tested tools for local and cross-platform workstation configuration, sorted descending by GitHub Stars_Counts.
 
 ### 🏆 Top Ranked Open-Source Dotfile Tools
 
-| Tool & Repository | GitHub Stars | Core Language / Paradigm | Key Strengths & Dotfile Philosophy |
+| Tool & Repository | GitHub_Stars | Core Language / Paradigm | Key Strengths & Dotfile Philosophy |
 | :--- | :--- | :--- | :--- |
 | **[mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)** | <a href="https://github.com/mathiasbynens/dotfiles/stargazers"><img src="https://img.shields.io/github/stars/mathiasbynens/dotfiles?style=social&color=white" alt="Stars" /></a> | Shell (macOS / Bash / Zsh) | **The gold standard macOS sensible defaults.** Provides foundational configuration scripts for macOS UI, Terminal, Safari, Git, and network optimization. Used as the base for thousands of personal setups. |
 | **[twpayne/chezmoi](https://github.com/twpayne/chezmoi)** | <a href="https://github.com/twpayne/chezmoi/stargazers"><img src="https://img.shields.io/github/stars/twpayne/chezmoi?style=social&color=white" alt="Stars" /></a> | Go (Single Binary) | **The most feature-complete dotfile manager.** Features Go templating, built-in age/GPG secret encryption, idempotent lifecycle scripts (`run_once_*`, `run_onchange_*`), diff audits, and cross-OS (macOS, Linux, WSL, Windows) drift detection. |
@@ -122,7 +122,7 @@ Contributions are welcome and highly appreciated! 🎉
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/cool-new-tool`).
-3. 📝 **Add or update entries** following the tabular format (for SaaS: include exact pricing, free tier limits, company size; for Open-Source: add GitHub star badge linking to stargazers).
+3. 📝 **Add or update entries** following the tabular format (for SaaS: include exact pricing, free tier limits, company size; for Open-Source: add GitHub Stars_Badge linking to stargazers).
 4. ✅ **Ensure accuracy** and neutral, factual descriptions.
 5. 🚀 **Submit a Pull Request** with a descriptive summary of changes.
 
